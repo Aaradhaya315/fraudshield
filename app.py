@@ -102,7 +102,7 @@ def main():
    
 
     # App title and logo
-    st.set_page_config(page_title="Fraud Shield", page_icon=":shield:"
+    st.set_page_config(page_title="Fraud Shield", page_icon=":shield:")
     st.title("Fraud Shield")
     st.write("A simple app to detect fraud in websites, emails, and text messages.")
     
